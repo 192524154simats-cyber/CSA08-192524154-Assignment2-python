@@ -1,0 +1,2 @@
+# Only the Python standard library is used (functools, io, re, sys, time, tracemalloc, random, math, tempfile, os, subprocess).
+# No pip install needed. Python 3.12 (match-case in Q1 needs 3.10 or newer).
